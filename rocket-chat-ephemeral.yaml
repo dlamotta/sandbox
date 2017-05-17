@@ -289,7 +289,7 @@
                 }
             },
             "spec": {
-                "host:": "chatntc.apps.lamotta.co",
+                "host": "chatntc.apps.lamotta.co",
                 "to": {
                     "kind": "Service",
                     "name": "rocketchat"
